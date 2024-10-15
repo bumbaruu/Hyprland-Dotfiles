@@ -1,1 +1,1 @@
-# Hyprland-Dotfiles
+My Hyprland rice on Arch Linux`
